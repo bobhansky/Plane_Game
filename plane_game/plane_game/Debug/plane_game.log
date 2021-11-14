@@ -1,2 +1,3 @@
 ﻿  play.cpp
+E:\VisualStudio_files\plane_game\plane_game\plane_game\play.cpp(252,14): warning C4018: “>”: 有符号/无符号不匹配
   plane_game.vcxproj -> E:\VisualStudio_files\plane_game\plane_game\Debug\plane_game.exe
